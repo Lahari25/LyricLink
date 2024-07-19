@@ -26,5 +26,4 @@
    - Rank the videos based on similarity scores and present the top recommendations to the user.
   
    <br>
-   <br>
 <img src="https://github.com/Lahari25/LyricLink/blob/main/music.jpg" width="950" height="400">
